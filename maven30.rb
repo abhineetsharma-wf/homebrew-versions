@@ -1,4 +1,4 @@
-class Maven31 < Formula
+class Maven30 < Formula
   desc "Java-based project management"
   homepage "https://maven.apache.org/"
   url "http://www.carfab.com/apachesoftware/maven/maven-3/3.0.5/binaries/apache-maven-3.0.5-bin.tar.gz"
