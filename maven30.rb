@@ -2,7 +2,7 @@ class Maven30 < Formula
   desc "Java-based project management"
   homepage "https://maven.apache.org/"
   url "http://www.carfab.com/apachesoftware/maven/maven-3/3.0.5/binaries/apache-maven-3.0.5-bin.tar.gz"
-  sha256 "077ed466455991d5abb4748a1d022e2d2a54dc4d557c723ecbacdc857c61d51b"
+  sha256 "9a9a78e2e344c1674d634def944e0a46b53753b541a46454d2921ba16fe6931e"
 
   conflicts_with "maven", :because => "Differing versions of same formula"
 
